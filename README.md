@@ -5,7 +5,7 @@ MVP+Dagger+Arouter+Arms 等多个框架结合实现项目的组件化
 
 
 
-Copyright 2018 yangyong
+#Copyright 2018 yangyong
 
    Licensed under the Apache License, Version 2.0 (the "License");
 
