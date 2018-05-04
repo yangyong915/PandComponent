@@ -1,0 +1,1 @@
+include ':app', ':lib_service', ':lib_sdk', ':lib_res', ':module_customerservice', ':module_message', ':module_bamboogarden', ':module_user', ':module_pay', ':module_order'

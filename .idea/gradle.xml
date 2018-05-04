@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lib_res" />
+            <option value="$PROJECT_DIR$/lib_sdk" />
+            <option value="$PROJECT_DIR$/lib_service" />
+            <option value="$PROJECT_DIR$/module_bamboogarden" />
+            <option value="$PROJECT_DIR$/module_customerservice" />
+            <option value="$PROJECT_DIR$/module_message" />
+            <option value="$PROJECT_DIR$/module_order" />
+            <option value="$PROJECT_DIR$/module_pay" />
+            <option value="$PROJECT_DIR$/module_user" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

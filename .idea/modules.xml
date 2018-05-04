@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\android\demo\PandComponent\LibSSDK\LibSSDK.iml" filepath="C:\android\demo\PandComponent\LibSSDK\LibSSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PandComponent.iml" filepath="$PROJECT_DIR$/PandComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_res/lib_res.iml" filepath="$PROJECT_DIR$/lib_res/lib_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_sdk/lib_sdk.iml" filepath="$PROJECT_DIR$/lib_sdk/lib_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_service/lib_service.iml" filepath="$PROJECT_DIR$/lib_service/lib_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_bamboogarden/module_bamboogarden.iml" filepath="$PROJECT_DIR$/module_bamboogarden/module_bamboogarden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_customerservice/module_customerservice.iml" filepath="$PROJECT_DIR$/module_customerservice/module_customerservice.iml" />
+      <module fileurl="file://C:\android\demo\PandComponent\module_customerservice\module_map.iml" filepath="C:\android\demo\PandComponent\module_customerservice\module_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_message/module_message.iml" filepath="$PROJECT_DIR$/module_message/module_message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_order/module_order.iml" filepath="$PROJECT_DIR$/module_order/module_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_pay/module_pay.iml" filepath="$PROJECT_DIR$/module_pay/module_pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_user/module_user.iml" filepath="$PROJECT_DIR$/module_user/module_user.iml" />
+    </modules>
+  </component>
+</project>
